@@ -5,3 +5,8 @@ I created recipe app using Ract.js, CSS, in which you can find all the necessary
 Tools:
 * React
 * CSS
+* TypeScript
+
+### Runing Project Locally
+* Install dependencies: run npm install in root project
+* Run project: npm run
