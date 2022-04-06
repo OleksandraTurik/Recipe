@@ -1,3 +1,7 @@
-# react-ts-lt9jap
+## Recipe
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-lt9jap)
+I created recipe app using Ract.js, CSS, in which you can find all the necessary recipes by name.
+
+Tools:
+* React
+* CSS
